@@ -556,6 +556,9 @@ a {
   .about_texts h3 {
     font-size: 42px;
   }
+  .portfolio_texts h2 {
+    font-size: 30px;
+  }
 }
 @media only screen and (max-width: 470px) {
   .about_texts h3 {
