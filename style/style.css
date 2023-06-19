@@ -491,7 +491,7 @@ a {
     margin-top: 10%;
   }
   .portfolio_texts h2 {
-    font-size: 40px;
+    font-size: 39px;
   }
   .portfolio_texts p {
     width: 60%;
@@ -520,6 +520,9 @@ a {
 @media only screen and (max-width: 625px) {
   .about_texts h3 {
     font-size: 16px;
+  }
+  .portfolio_texts h2 {
+    font-size: 38px;
   }
 }
 @media only screen and (max-width: 600px) {
