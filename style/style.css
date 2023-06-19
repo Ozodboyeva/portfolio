@@ -564,6 +564,9 @@ a {
   .about_texts h3 {
     font-size: 40px;
   }
+  .portfolio_texts h2 {
+    font-size: 28px;
+  }
 }
 @media only screen and (max-width: 460px) {
   .about_texts h3 {
@@ -605,12 +608,21 @@ a {
     margin-top: 250%;
     font-size: 25px;
   }
+  .about_texts h3 {
+    font-size: 25px;
+  }
   .portfolio_box_texts p {
     width: 100%;
   }
 }
 
 @media only screen and (max-width: 365px) {
+  .about_texts h3 {
+    font-size: 20px;
+  }
 }
 @media only screen and (max-width: 355px) {
+  .about_texts h3 {
+    font-size: 19px;
+  }
 }
